@@ -1,0 +1,15 @@
+C:\proj\copy-1\class and inheritance\bin\Debug\net8.0\class and inheritance.exe
+C:\proj\copy-1\class and inheritance\bin\Debug\net8.0\class and inheritance.deps.json
+C:\proj\copy-1\class and inheritance\bin\Debug\net8.0\class and inheritance.runtimeconfig.json
+C:\proj\copy-1\class and inheritance\bin\Debug\net8.0\class and inheritance.dll
+C:\proj\copy-1\class and inheritance\bin\Debug\net8.0\class and inheritance.pdb
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\class and inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\class and inheritance.AssemblyInfoInputs.cache
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\class and inheritance.AssemblyInfo.cs
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\class and inheritance.csproj.CoreCompileInputs.cache
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\class and inheritance.sourcelink.json
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\class and inheritance.dll
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\refint\class and inheritance.dll
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\class and inheritance.pdb
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\class and inheritance.genruntimeconfig.cache
+C:\proj\copy-1\class and inheritance\obj\Debug\net8.0\ref\class and inheritance.dll
