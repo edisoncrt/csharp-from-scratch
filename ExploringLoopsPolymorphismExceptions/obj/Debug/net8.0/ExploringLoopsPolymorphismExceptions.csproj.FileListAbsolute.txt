@@ -1,0 +1,15 @@
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\bin\Debug\net8.0\ExploringLoopsPolymorphismExceptions.exe
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\bin\Debug\net8.0\ExploringLoopsPolymorphismExceptions.deps.json
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\bin\Debug\net8.0\ExploringLoopsPolymorphismExceptions.runtimeconfig.json
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\bin\Debug\net8.0\ExploringLoopsPolymorphismExceptions.dll
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\bin\Debug\net8.0\ExploringLoopsPolymorphismExceptions.pdb
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ExploringLoopsPolymorphismExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ExploringLoopsPolymorphismExceptions.AssemblyInfoInputs.cache
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ExploringLoopsPolymorphismExceptions.AssemblyInfo.cs
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ExploringLoopsPolymorphismExceptions.csproj.CoreCompileInputs.cache
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ExploringLoopsPolymorphismExceptions.sourcelink.json
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ExploringLoopsPolymorphismExceptions.dll
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\refint\ExploringLoopsPolymorphismExceptions.dll
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ExploringLoopsPolymorphismExceptions.pdb
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ExploringLoopsPolymorphismExceptions.genruntimeconfig.cache
+C:\proj\copy-1\ExploringLoopsPolymorphismExceptions\obj\Debug\net8.0\ref\ExploringLoopsPolymorphismExceptions.dll
